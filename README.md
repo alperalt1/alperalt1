@@ -1,4 +1,4 @@
-![alt README header](https://github.com/alperalt1/alperalt1/blob/90002b57b72d5f8f701a574a50cf4b3d5de1843c/assets/image1redimen.png)
+![alt README header](https://github.com/alperalt1/alperalt1/blob/390b31ce30cbd8bbc9e9f5e77bb64062ad65acb0/assets/image1redimenstyle.png)
 
 ## Front-End Developer
 
