@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
-     <a href="www.linkedin.com/in/alex-peralta-38961123a">
+     <a href="https://www.linkedin.com/in/alex-peralta-38961123a">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
